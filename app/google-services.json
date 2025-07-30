@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "828306079342",
+    "project_id": "eloan-app-624e9",
+    "storage_bucket": "eloan-app-624e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828306079342:android:566192f63d505907ea307f",
+        "android_client_info": {
+          "package_name": "com.cremcash.eloan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828306079342-14dnshpfelo1aqjb004pmebfivf0oejj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cremcash.eloan",
+            "certificate_hash": "35ca966f3e595c44f24018cee652df334a622e4b"
+          }
+        },
+        {
+          "client_id": "828306079342-vhugcggh773u9ll5sr8ne3q2ur9mbsvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ-L1xQklI6-_izwS8IwTfojvOjvKnaCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828306079342-vhugcggh773u9ll5sr8ne3q2ur9mbsvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
