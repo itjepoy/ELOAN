@@ -8,12 +8,12 @@ import java.sql.DriverManager;
 
 public class ConnectionClass {
     //public static String ip ="26.108.247.37"; // SQL Server IP Address
-    public static String ip ="10.10.0.113"; // SQL Server CASHMA and CREMLIC IP Address
-    //public static String ip ="10.10.0.73"; // SQL Server CAMFIN IP Address
+    public static String ip ="0.0.0.0"; // SQL Server CASHMA and CREMLIC IP Address
+    //public static String ip ="0.0.0.0"; // SQL Server CAMFIN IP Address
     public static String un = "sa"; // SQL Server User name
-    public static String pass = "g@t3k33p3R2024"; // SQL Server Password
+    public static String pass = "pass"; // SQL Server Password
     //public static String db = "ExclusiveDataInfoCLI"; // CAMFIN SQL Server Database
-    public static String db = "ExclusiveDataInfoCASH"; // CREMLIC SQL Server Database
+    public static String db = "ExclusiveDataInfoCREM"; // CREMLIC SQL Server Database
     //public static String db = "ExclusiveDataInfoCASH"; // CASHMA SQL Server Database
     public static String dbCAS = "CAS";
 
